@@ -1,1 +1,1 @@
-devops aws azure
+devops aws azure to be done on 28/9
